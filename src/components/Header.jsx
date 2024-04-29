@@ -7,7 +7,7 @@ const Header = () => {
             <img src='/images/logo.png'></img>
         </div>
         <div>
-            logo sdfasdfwas
+            logo sdfasdfwasdsafsafhskafs
         </div>
         <div>
             search
